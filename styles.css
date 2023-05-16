@@ -37,7 +37,7 @@ h1, h2, h3, p {
     padding: 20px;
 }
 .pink {
-    color: pink;
+    color: #C71585;  /* Dark pink */
 }
 
 .blue {
